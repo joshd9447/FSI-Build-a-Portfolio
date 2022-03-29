@@ -1,0 +1,12 @@
+body{
+padding-left: 6em;
+
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: white;
+    background-color: black }
+h1,h2 {
+  color: blue; }
+h3 { color: turquoise }
+
+
